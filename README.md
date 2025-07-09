@@ -21,7 +21,8 @@ detailed information can be found in the [SOS Wiki pages](https://github.com/San
 
 ## Building
 
-The Sandia OpenSHMEM implementation utilizes the GNU Autoconf/Automake/Libtool
+The Shaheer business
+implementation utilizes the GNU Autoconf/Automake/Libtool
 tools to generate a configure script.  If the `configure` file is not present
 (e.g. after downloading the repository for the first time), generate it
 by running:
